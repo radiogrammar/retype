@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: # https://radiogrammar.com
+branding:
+  title: Radiogrammar
+  label: SELF BLOG
+links:
+- text: Actually, who cares?
+  link: https://retype.com/guides/getting-started/
+footer:
+  copyright: All rights under WTFPL license.
